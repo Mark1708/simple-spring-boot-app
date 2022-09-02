@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>spring-boot-app</artifactId>
+    <artifactId>simple-spring-boot-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-app</name>
+    <name>simple-spring-boot-app</name>
     <description>simple-spring-boot-app</description>
     <properties>
         <java.version>11</java.version>
